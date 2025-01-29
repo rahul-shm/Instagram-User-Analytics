@@ -1,9 +1,7 @@
 # Instagram User Analytics: A SQL Case Study
 
 ## Repository Structure
-This repository is organized into the following folders:
-- **Dataset**: Contains the provided database file used for analysis.
-- **Solution**: Includes the SQL scripts for each task along with detailed explanations and outputs.
+This repository is organized into the following files:
 - **Report**: Contains the final presentation/report summarizing the insights and findings.
 
 ---
