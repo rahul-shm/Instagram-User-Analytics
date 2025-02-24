@@ -8,7 +8,7 @@ This repository is organized into the following files:
 ---
 
 ## Project Overview
-As a data analyst working with the Instagram product team, the goal of this project is to analyze user engagement and interactions with the platform. By leveraging SQL, we extract valuable insights from the provided user database to help the product and marketing teams make data-driven decisions. The analysis also serves to provide investors with crucial metrics about platform activity and user behavior.
+As a data analyst the goal of this project is to analyze user engagement and interactions with the platform. By leveraging SQL, we extract valuable insights from the provided user database to help the product and marketing teams make data-driven decisions. The analysis also serves to provide investors with crucial metrics about platform activity and user behavior.
 
 ---
 
