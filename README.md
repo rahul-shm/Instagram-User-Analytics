@@ -3,6 +3,7 @@
 ## Repository Structure
 This repository is organized into the following files:
 - **Report**: Contains the final presentation/report summarizing the insights and findings.
+- **Commands for creating Database**: Contains the commands for creating Database.
 
 ---
 
